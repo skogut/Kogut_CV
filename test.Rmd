@@ -1,0 +1,13 @@
+---
+title: "test"
+author: "Sophie Kogut"
+date: "7/8/2021"
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+# Basic scatter plot
+ggplot(mtcars, aes(x=wt, y=mpg)) + geom_point()
+```
+

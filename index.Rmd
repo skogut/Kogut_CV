@@ -1,0 +1,19 @@
+---
+title: "Kogut CV"
+author: "Sophie Kogut"
+date: "2021"
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
+Research in the Frietze Lab
+
+test
+[Test](test.html)
+Investigating ligand-target interactions in chronic lymphocytic leukemia
+
+Shiny app
+[Gene Expression](http://galaxy.med.uvm.edu:3838/sophiakogut/)
+
+
