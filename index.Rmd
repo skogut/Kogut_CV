@@ -22,6 +22,7 @@ output:
 
 ## NicheNet analysis for Cambridge
 ###### Exploring ligand - receptor interactions between co-cultured CLL cells and stroma
+
 [Gene Expression: CLL/stroma co-culture](http://galaxy.med.uvm.edu:3838/sophiakogut/)
 
 ## HSV1 genomic interactions
@@ -29,6 +30,8 @@ output:
 
 ## Research in the Li Lab
 
+[SRC Poster](CFS PosterSRC2020.pdf)
+
 ## Publications
 
-[*Non-Coding RNA Signatures of B-Cell Acute Lymphoblastic Leukemia, 2021*](https://www.mdpi.com/1422-0067/22/5/2683/htm)
+[*Non-Coding RNA Signatures of B-Cell Acute Lymphoblastic Leukemia, 2021*](https://pubmed.ncbi.nlm.nih.gov/33799946/)
