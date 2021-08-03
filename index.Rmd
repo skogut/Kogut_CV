@@ -1,16 +1,15 @@
 ---
-title: "Kogut CV"
-author: "Sophie Kogut"
-date: "2021"
+title: "Research"
+author: ""
+date: ""
 output: 
   prettydoc::html_pretty:
     theme: leonids
     highlight: github
 ---
-<font size= "7" color = "blue"> **Sophie Kogut**</font>
+<font size= "5" color = "blue"> **Sophie Kogut**</font>
 
 ### Burlington, VT | skogut@uvm.edu
-![me](SK_franconia.jpg)
 
 # Research in the Frietze Lab
 
@@ -30,8 +29,9 @@ output:
 
 ## Research in the Li Lab
 
-[SRC Poster](CFS PosterSRC2020.pdf)
+[Student Researach Conference Poster](CFS PosterSRC2020.pdf)
 
-## Publications
+
+# Publications
 
 [*Non-Coding RNA Signatures of B-Cell Acute Lymphoblastic Leukemia, 2021*](https://pubmed.ncbi.nlm.nih.gov/33799946/)
